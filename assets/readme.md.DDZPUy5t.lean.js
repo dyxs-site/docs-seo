@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.yRZYgHDL.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),n={name:"readme.md"},h=t("",1),e=[h];function l(p,k,F,d,r,g){return a(),i("div",null,e)}const C=s(n,[["render",l]]);export{c as __pageData,C as default};
