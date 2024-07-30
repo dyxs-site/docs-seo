@@ -1,0 +1,16 @@
+.main img {
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+  z-index: 1000; /* 确保图片显示在侧边栏上方 */
+  position: relative; /* 确保图片在文档流中正确定位 */
+}
+
+/* medium-zoom 的覆盖样式 */
+.medium-zoom-overlay {
+  z-index: 999; /* 覆盖层的z-index要比图片低 */
+}
+
+.medium-zoom-image--opened {
+  z-index: 1001; /* 放大后的图片显示在覆盖层上方 */
+}
