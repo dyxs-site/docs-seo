@@ -1,8 +1,9 @@
 ---
 outline: deep
 ---
+# 整理目标
 
-# 示例
+## 收集目标网址数据
 
 | 序号        | 地址   | 缩略图   |  流量  |  关键词 | 页面/访问 | 平均访问时长| 跳出率 |  反向链接  |
 | :--------  | :-----  |:-----  | :---- |:---- | :----| :----  | :---- | :----:  |
@@ -18,3 +19,7 @@ outline: deep
 | 10 | [http://kinogo.cc](http://kinogo.cc) | ![图10](../static/images/10-kinogo.cc.jpg)|1.7K|895|-|-|-|5.7K|
 | 11 | [http://kinogo.la](http://kinogo.la) | ![图11](../static/images/11-kinogo.la.jpg)|89|22|-|-|-|23.1K|
 | 12 | [http://kinogo.lt](http://kinogo.lt) | ![图12](../static/images/12-kinogo.lt.jpg)|0|140|-|-|-|45|
+
+## 从收集的目标中挑选
+
+- 挑选过程看这里→ [挑选过程](./logs.md)

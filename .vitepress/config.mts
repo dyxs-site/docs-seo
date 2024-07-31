@@ -18,8 +18,9 @@ export default defineConfig({
       {
         text: "Semrush",
         items: [
-          { text: "1、要点", link: "/semrush/logs" },
-          { text: "2、记录", link: "/semrush/movies" },
+          { text: "1、关于Semrush", link: "/semrush/readme" },
+          { text: "2、选择研究目标", link: "/semrush/movies" },
+          { text: "2、分析记录研究过程", link: "/semrush/logs" },
         ],
       },
     ],
