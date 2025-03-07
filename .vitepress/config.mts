@@ -24,6 +24,7 @@ export default defineConfig({
           { text: "4、研究目标-Life", link: "/semrush/life" },
           { text: "5、研究目标-Tools", link: "/semrush/tools" },
           { text: "6、研究目标-Independent", link: "/semrush/independent" },
+          { text: "7、Tools-设计", link: "/tools" },
         ],
       },
     ],
