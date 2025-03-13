@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as n}from"./chunks/framework.DINszxbz.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),h={name:"readme.md"};function e(l,s,p,k,F,r){return t(),a("div",null,s[0]||(s[0]=[n("",1)]))}const o=i(h,[["render",e]]);export{g as __pageData,o as default};
